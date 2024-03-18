@@ -1,0 +1,14 @@
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/bin/Debug/net8.0/C_sharp_programming
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/bin/Debug/net8.0/C_sharp_programming.deps.json
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/bin/Debug/net8.0/C_sharp_programming.runtimeconfig.json
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/bin/Debug/net8.0/C_sharp_programming.dll
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/bin/Debug/net8.0/C_sharp_programming.pdb
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/obj/Debug/net8.0/C_sharp_programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/obj/Debug/net8.0/C_sharp_programming.AssemblyInfoInputs.cache
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/obj/Debug/net8.0/C_sharp_programming.AssemblyInfo.cs
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/obj/Debug/net8.0/C_sharp_programming.csproj.CoreCompileInputs.cache
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/obj/Debug/net8.0/C_sharp_programming.dll
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/obj/Debug/net8.0/refint/C_sharp_programming.dll
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/obj/Debug/net8.0/C_sharp_programming.pdb
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/obj/Debug/net8.0/C_sharp_programming.genruntimeconfig.cache
+/Users/chornthoen/RiderProjects/C_sharp_programming/C_sharp_programming/obj/Debug/net8.0/ref/C_sharp_programming.dll

@@ -1,0 +1,14 @@
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/bin/Debug/net8.0/ControllStatement
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/bin/Debug/net8.0/ControllStatement.deps.json
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/bin/Debug/net8.0/ControllStatement.runtimeconfig.json
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/bin/Debug/net8.0/ControllStatement.dll
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/bin/Debug/net8.0/ControllStatement.pdb
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/obj/Debug/net8.0/ControllStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/obj/Debug/net8.0/ControllStatement.AssemblyInfoInputs.cache
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/obj/Debug/net8.0/ControllStatement.AssemblyInfo.cs
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/obj/Debug/net8.0/ControllStatement.csproj.CoreCompileInputs.cache
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/obj/Debug/net8.0/ControllStatement.dll
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/obj/Debug/net8.0/refint/ControllStatement.dll
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/obj/Debug/net8.0/ControllStatement.pdb
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/obj/Debug/net8.0/ControllStatement.genruntimeconfig.cache
+/Users/chornthoen/RiderProjects/C_sharp_programming/ControllStatement/obj/Debug/net8.0/ref/ControllStatement.dll
